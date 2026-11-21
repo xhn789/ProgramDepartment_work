@@ -1,0 +1,26 @@
+# 数据库数据文件（作业明令不能交）
+Data/
+data/
+*.ibd
+*.frm
+*.ibdata*
+
+# 视频 / 录屏
+*.mp4
+*.mov
+*.avi
+
+# 密码 / 本地配置
+.env
+*.local
+password.txt
+
+# 虚拟环境
+.venv/
+venv/
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
